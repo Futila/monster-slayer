@@ -1,4 +1,4 @@
-# 🧟‍♂️ Monster Slayer Game (Vue 3)
+# Monster Slayer Game (Vue 3)
 
 A simple turn-based fighting game built using **Vue.js 3** with the Composition API. In this game, the player faces off against a monster in a battle of attacks, special attacks, healing, and survival. The gameplay includes real-time health bars, action logging, and win/loss logic.
 
